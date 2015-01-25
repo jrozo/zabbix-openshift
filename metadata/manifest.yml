@@ -1,7 +1,7 @@
 Name: zabbix
 Cartridge-Short-Name: ZABBIX
 Display-Name: Zabbix
-Version: "2.0.8"
+Version: "2.4.3"
 Website: https://github.com/a13m/openshift-zabbix-cartridge
 Cartridge-Version: 0.0.1
 Cartridge-Vendor: a13m
